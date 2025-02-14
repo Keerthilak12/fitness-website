@@ -1,3 +1,3 @@
 document.addEventListener("DOMContentLoaded", function() {
-    alert("Welcome to my fitness website!");
+    //alert("Welcome to my fitness website!");
 });
